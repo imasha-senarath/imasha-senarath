@@ -29,5 +29,5 @@
 
 <br>
 <p align="center" style="color: grey; text-transform:uppercase;">
-  CREATED ON: 31/07/2022 | UPDATED on: 31/07/2022
+  CREATED ON: 31/07/2022 | UPDATED ON: 31/07/2022
 </p>
