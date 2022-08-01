@@ -1,18 +1,10 @@
+<h1 align="center" >Hi there! 👽🖐</h1>
 
-<p align="center">
- <font size="6"> Hi there! 👽🖐 </font>
-</p>
-
+<h2 align="center">Welcome to my Github Profile. My name is <a href="https://imasha.xyz">Imasha Senarath</a>. I'm a Software Engineer, a freelancer from Sri Lanka. It's nice to meet you!</h2>
 
 <br>
 <p align="center">
- <font size="4">Welcome to my Github Profile. My name is <a href="https://imasha.xyz">Imasha Senarath</a>. I'm a Software Engineer, a freelancer from Sri Lanka. It's nice to meet you! </font>
-</p>
-
-
-<br>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imasha-senarath&color=blue&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=imasha-senarath&color=blue&style=flat">
 </p>
 
 
