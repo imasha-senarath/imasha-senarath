@@ -1,17 +1,26 @@
-<h1 align="center">Hi there! 👽🖐</h1>
 
-<h2 align="center">Welcome to my Github Profile. My name is <a href="https://imasha.xyz">Imasha Senarath</a>. I'm a Software Engineer, a freelancer from Sri Lanka. It's nice to meet you!</h2>
-
-<br>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imasha-senarath&color=brightgreen&style=flat">
+ <font size="6"> Hi there! 👽🖐 </font>
 </p>
 
 
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imasha-senarath&langs_count=8&theme=dark&layout=compact&hide_border=true" /> <br> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=imasha-senarath&theme=dark&count_private=true&hide_border=true" />
+ <font size="4">Welcome to my Github Profile. My name is <a href="https://imasha.xyz">Imasha Senarath</a>. I'm a Software Engineer, a freelancer from Sri Lanka. It's nice to meet you! </font>
+</p>
+
+
+<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=imasha-senarath&color=blue&style=for-the-badge">
+</p>
+
+
+<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imasha-senarath&langs_count=8&theme=dark&layout=compact&hide_border=true&card_width=440" /> <br> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=imasha-senarath&theme=dark&count_private=true&hide_border=true&include_all_commits=true&hide_title=true" /> <br> <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imasha-senarath&theme=dark&hide_border=true"/>
 </p>
 
 
@@ -29,5 +38,5 @@
 
 <br>
 <p align="center" style="color: grey; text-transform:uppercase;">
-  CREATED ON: 31/07/2022 | UPDATED ON: 31/07/2022
+  CREATED ON: 31/07/2022 | UPDATED ON: 01/08/2022
 </p>
