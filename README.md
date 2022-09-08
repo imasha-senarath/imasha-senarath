@@ -18,10 +18,10 @@
 
 <br>
 <p align="center">
-  <a href="mailto:imashasenarath@yahoo.com"><img src="https://img.shields.io/badge/Email-purple?logo=gmail&logoColor=white&style=for-the-badge" height=25></a>
-  <a href="https://www.imasha.xyz/"><img src="https://img.shields.io/badge/Website-667881?logo=replit&logoColor=white&style=for-the-badge" height=25></a>
-  <a href="https://www.facebook.com/senarath.imasha"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" height=25></a>
-  <a href="https://www.instagram.com/imasha.online/"><img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white&style=for-the-badge" height=25></a>
-  <a href="https://www.linkedin.com/in/imasha-senarath/"><img src="https://img.shields.io/badge/Linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height=25></a>
-  <a href="https://www.imasha.xyz/curriculum-vitae.html"><img src="https://img.shields.io/badge/Resume-1ED760?style=for-the-badge&logoColor=white" height=25></a>
+  <a href="mailto:imashasenarath@yahoo.com" target="_blank"><img src="https://img.shields.io/badge/Email-purple?logo=gmail&logoColor=white&style=for-the-badge" height=25></a>
+  <a href="https://www.imasha.xyz/" target="_blank"><img src="https://img.shields.io/badge/Website-667881?logo=replit&logoColor=white&style=for-the-badge" height=25></a>
+  <a href="https://www.facebook.com/senarath.imasha" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" height=25></a>
+  <a href="https://www.instagram.com/imasha.online/" target="_blank"><img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white&style=for-the-badge" height=25></a>
+  <a href="https://www.linkedin.com/in/imasha-senarath/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height=25></a>
+  <a href="https://www.imasha.xyz/curriculum-vitae.html" target="_blank"><img src="https://img.shields.io/badge/Resume-1ED760?style=for-the-badge&logoColor=white" height=25></a>
 </p>
