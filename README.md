@@ -4,6 +4,8 @@ My name is **Imasha Senarath**. I'm a Software Engineer, a Freelancer based in S
 
 With **3 years of experience** in software engineering, I possess a strong skillset in **Java, Kotlin and Flutter**. I developed and maintained Point of Sale (POS) and Mobile Android applications for **leading banks**.
 
+For more details visit the website at [Imasha Senarath](https://www.imashasenarath.com/)
+
 <br />
 
 <img src="https://komarev.com/ghpvc/?username=imasha-senarath&color=blue&style=flat">
