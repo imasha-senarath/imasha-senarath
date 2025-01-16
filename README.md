@@ -1,8 +1,8 @@
 ### Hi there! 👋
 
-My name is **Imasha Senarath**. I'm a Software Engineer, a Freelancer based in Sri Lanka. It's nice to meet you!
+I'm **Imasha Senarath** a Software Engineer and Freelancer from Sri Lanka. It's nice to meet you!
 
-With **3 years of experience** in software engineering, I possess a strong skillset in **Java, Kotlin and Flutter**. I developed and maintained Point of Sale (POS) and Mobile Android applications for **leading banks**.
+I possess a strong skillset in **Java, Kotlin and Flutter**. I developed and maintained Point of Sale (POS) and Mobile Applications for **leading banks**. Additionally, I have worked on several freelance projects on Fiverr and with local clients.
 
 For more details visit the website at [Imasha Senarath](https://www.imashasenarath.com/)
 
